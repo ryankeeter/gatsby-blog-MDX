@@ -35,7 +35,7 @@ const Hero = () => (
           max-width: ${rhythm(15)};
         `}
       >
-        Your Face Says your Face!
+        Your Face Says your Face! No it doesn't!
       </h1>
     </Container>
     <div
